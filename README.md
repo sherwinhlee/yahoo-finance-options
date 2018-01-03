@@ -1,2 +1,2 @@
 # yahoo-finance-options
-Scrapes options data from Yahoo Finance
+Simple Python script to scrape live options data from Yahoo! Finance
